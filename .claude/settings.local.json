@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.countyoffice.org)",
+      "WebSearch",
+      "WebFetch(domain:www.remax.com)",
+      "WebFetch(domain:www.teamleehomes.com)",
+      "WebFetch(domain:www.movoto.com)",
+      "WebFetch(domain:greatskyga.com)",
+      "WebFetch(domain:www.trulia.com)",
+      "WebFetch(domain:www.zillow.com)",
+      "WebFetch(domain:www.xome.com)",
+      "WebFetch(domain:metrobrokers.com)",
+      "WebFetch(domain:www.georgiamls.com)",
+      "WebFetch(domain:www.homes.com)",
+      "WebFetch(domain:www.exprealty.com)",
+      "WebFetch(domain:kw.com)",
+      "Bash(open /Users/macbook/Documents/Repositories/jgold-research/index.html)",
+      "WebFetch(domain:www.compass.com)",
+      "WebFetch(domain:bradpoolegroup.com)"
+    ]
+  }
+}
